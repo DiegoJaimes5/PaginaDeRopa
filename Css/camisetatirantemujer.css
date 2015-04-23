@@ -1,0 +1,46 @@
+a#home {
+			position:absolute;
+			left:1350px;
+}
+a:hover{color:#E82E2E;}
+p > img {position:absolute;
+		top:100px;
+		left:100px;}
+h2 > img {position:absolute;
+			top:100px;
+			left:700px;}
+
+h2 > img {position:absolute;
+			top:100px;
+			left:700px;}
+
+h3 > img {position:absolute;
+			top:400px;
+			left:700px;}
+ul#lista1{float:right;
+	margin-top:300px;
+	margin-right:500px;
+		color:blue;
+	text-decoration:none;
+}
+a#compra1{float:left;
+margin-top:;
+margin-left:;
+color:;
+font-size:25px;
+}
+ul#lista2{float:right;
+	margin-top:300px;
+	margin-right:350px;
+		color:blue;
+	text-decoration:none;
+}
+ul#lista3{float:right;
+	margin-top:200px;
+	margin-right:450px;
+		color:blue;
+	text-decoration:none;
+}						
+a#costo1{text-decoration:none;}
+a#costo2{text-decoration:none;}
+a#costo3{text-decoration:none;}
